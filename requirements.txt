@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib>=3.7
+qiskit>=1.0
+qiskit_ibm_runtime>=0.20
+qiskit_aer>=0.13
+rustworkx>=0.14
